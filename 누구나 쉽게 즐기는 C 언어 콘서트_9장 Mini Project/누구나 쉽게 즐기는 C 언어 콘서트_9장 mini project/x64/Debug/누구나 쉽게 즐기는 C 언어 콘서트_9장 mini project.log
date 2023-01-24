@@ -1,4 +1,0 @@
-﻿  367p Mini Project.c
-C:\Users\USER\Desktop\누구나 쉽게 즐기는 C 언어 콘서트_9장 Mini Project\누구나 쉽게 즐기는 C 언어 콘서트_9장 mini project\367p Mini Project.c(42,21): warning C4013: 'getch' undefined; assuming extern returning int
-C:\Users\USER\Desktop\누구나 쉽게 즐기는 C 언어 콘서트_9장 Mini Project\누구나 쉽게 즐기는 C 언어 콘서트_9장 mini project\367p Mini Project.c(85,9): warning C4013: 'time' undefined; assuming extern returning int
-  누구나 쉽게 즐기는 C 언어 콘서트_9장 mini project.vcxproj -> C:\Users\USER\Desktop\누구나 쉽게 즐기는 C 언어 콘서트_9장 Mini Project\x64\Debug\누구나 쉽게 즐기는 C 언어 콘서트_9장 mini project.exe
